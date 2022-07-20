@@ -4,4 +4,4 @@
 pip install -r requirements.txt
 
 ## Lancement en local
-py .\manage.py runserver
+python manage.py runserver
